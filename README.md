@@ -78,3 +78,5 @@ Dentro do VRSL o usuário tem liberdade para se movimentar e visualizar qualquer
 
 Para guiar o(a) professor(a) que tenha a intenção de utilizar o VRSL em sala de aula, foi criado um plano de aula para servir de modelo e de exemplo para replicação. A disciplina em questão chama-se Geração, Transmissão e Distribuição e tem o objetivo de introduzir, ao discente, os conteúdos da área de Sistemas Elétricos de Potência. Aconselha-se utilizar do plano de aula sugerido, que se encontra no drive com link abaixo, após as aulas teóricas de subestação com a finalidade de mostrar um ambiente em 3D do conteúdo abordado em sala de aula.
 
+[Plano de aula proposto](https://github.com/user-attachments/files/15992491/Plano.de.aula.GTD_VRSL_V1.pdf)
+
