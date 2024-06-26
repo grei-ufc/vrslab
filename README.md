@@ -80,3 +80,35 @@ Para guiar o(a) professor(a) que tenha a intenção de utilizar o VRSL em sala d
 
 [Plano de aula proposto](https://github.com/user-attachments/files/15992491/Plano.de.aula.GTD_VRSL_V1.pdf)
 
+
+## Seção 4 – Prémios e publicações envolvendo o VRSL.
+
+O presente projeto é fruto da parceria com CNPq, oriunda da chamada universal de 2023, intitulada “Plataforma Multidomínio em Realidade Virtual aplicada ao processo de Ensino-Aprendizagem.” Além disso, o presente projeto adquiriu, no CINASE 2023 – Edição Fortaleza, o prêmio de **Melhor Projeto P&D** e o prêmio **O Setor Elétrico (OSE) de Melhor Projeto Geral**. Além disso, seu desenvolvimento e aplicação gerou os seguintes trabalhos:
+
+[Trabalho de Conclusão de Curso](https://repositorio.ufc.br/handle/riufc/67639)
+
+[Artigo no XIX ERIAC na seção C2 D2](https://www.xixeriac.com.br/artigos-apresentacoes)
+
+## Seção 5 – Pesquisadores envolvidos no projeto
+
+[Daniel Rebouças Jaguaribe](http://lattes.cnpq.br/8807139438765241)
+
+[Raimundo Furtado Sampaio](http://lattes.cnpq.br/9936530790182581)
+
+[Giovanni Cordeiro Barroso](http://lattes.cnpq.br/1218783106447217)
+
+[Antônio Melo Júnior](http://lattes.cnpq.br/2610619567290943)
+
+[Ruth Pastôra Saraiva Leão](http://lattes.cnpq.br/8551048513174462)
+
+[Milena Teixeira](http://lattes.cnpq.br/3425826858113947)
+
+Gustavo Alves
+
+[Rômulo Moura](http://lattes.cnpq.br/2440007243254830)
+
+[Richarles Cândido](http://lattes.cnpq.br/6055212132306536)
+
+[Gabriel Pinheiro](http://lattes.cnpq.br/2361451480162580)
+
+
