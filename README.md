@@ -51,5 +51,30 @@ Após a instalação apropriada do software, o usuário será levado para o ambi
 
 <div align="center">
 
-<img width="850" alt="foto-7" src="[https://github.com/grei-ufc/vrslab/assets/172390778/030fa06b-a32d-4e3d-b9f2-346de63eff38](https://github.com/grei-ufc/vrslab/assets/172390778/0ce614c7-40c4-4b4f-be8d-cd50d76a953d)">
+<img width="850" alt="teclado" src="https://github.com/grei-ufc/vrslab/assets/172390778/0ce614c7-40c4-4b4f-be8d-cd50d76a953d">
 </div>
+
++ Tecla W – Movimentação para frente;
++ Tecla A – Movimentação para direita;
++ Tecla S – Movimentação para trás
++ Tecla D – Movimentação para esquerda
++ Tecla Shift – Corre rápido
++ Tecla Ctrl esquerdo - Agachar
++ Tecla Ctrl direito – Ponta dos pés
++ Tecla I – Movimentação pra frente no drone;
++ Tecla K – Movimentação para trás no drone;
++ Tecla J – Movimentação para direita no drone;
++ Tecla L – Movimentação para esquerda no drone;
++ Tecla O – Sair do drone
++ Tecla T – Parar o drone no ar;
++ Tecla E – Interagir com componentes, como portas, drones etc;
++ Tecla M – Habilitar/Desabilitar minimapa;
++ Tecla Barra de espaço – Pular;
++ Tecla Esc – Opções do jogo.
+
+Dentro do VRSL o usuário tem liberdade para se movimentar e visualizar qualquer equipamento em qualquer ângulo. É recomendável que o usuário acesso o computador, na casa de comando, para utilizar todas as funcionalidades do software, como visualizar e interagir com o diagrama unifilar da subestação e visualizar simulações.
+
+## Seção 3 – Indicação de aula utilizando o VRSL?
+
+Para guiar o(a) professor(a) que tenha a intenção de utilizar o VRSL em sala de aula, foi criado um plano de aula para servir de modelo e de exemplo para replicação. A disciplina em questão chama-se Geração, Transmissão e Distribuição e tem o objetivo de introduzir, ao discente, os conteúdos da área de Sistemas Elétricos de Potência. Aconselha-se utilizar do plano de aula sugerido, que se encontra no drive com link abaixo, após as aulas teóricas de subestação com a finalidade de mostrar um ambiente em 3D do conteúdo abordado em sala de aula.
+
