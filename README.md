@@ -47,3 +47,9 @@ Importante salientar que os requisitos mínimos não oferecem a melhor solução
 + Utilização do SSD mínimo 256 GB.
 
 Após a instalação apropriada do software, o usuário será levado para o ambiente da subestação e as instruções para utilização do software estão descrito abaixo:
+
+
+<div align="center">
+
+<img width="850" alt="foto-7" src="[https://github.com/grei-ufc/vrslab/assets/172390778/030fa06b-a32d-4e3d-b9f2-346de63eff38](https://github.com/grei-ufc/vrslab/assets/172390778/0ce614c7-40c4-4b4f-be8d-cd50d76a953d)">
+</div>
