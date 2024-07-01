@@ -1,28 +1,28 @@
-# O que é o LSRV?
+# What is the VRSL?
 
-A Virtual Reality Substation Laboratory (VRSL) é um software desenvolvido utilizando da Unity Engine pelo Grupo de Redes Elétricas Inteligentes (GREI) para melhorar o processo de ensino-aprendizagem em cursos de Engenharia Elétrica no que tange ao conteúdo de subestações.
+The Virtual Reality Substation Laboratory (VRSL) is a software development using Unity Engine by Smart Grids Group (SSG)
+é um software desenvolvido utilizando da Unity Engine pelo to improve the teaching-learning process in Electrical Engineering courses with regard to substation content.
 
-## Seção 1 - Qual é a principal função do Virtual Reality Substation Laboratory (VRSL)?
+## Section 1 - What is the main function of the Virtual Reality Substation Laboratory (VRSL)?
 
-O software recria, de forma fiel, a subestação de distribuição de energia elétrica que alimenta o Campus Professor Prisco Bezerra da Universidade Federal do Ceará (UFC).
+The software faithfully recreates the electricity distribution substation that feeds the Campus Professor Prisco Bezerra of the Federal University of Ceará (UFC).
 
-O software possui dois ambientes para exploração discente, sendo eles o Pátio da Subestação e a Casa de Comando. No pátio é possível visualizar os equipamentos de uma subestação de distribuição, tais como Transformador de Corrente (TC), Transformador de Potencial (TP), transformadores de potência, chave seccionadora, religadores e estruturas de concreto, conforme ilustrado nas Figuras abaixo que comparam o real com o virtual.
+The software has two environments for students to explore: the Substation Yard and the Command House. In the courtyard it is possible to see the equipment of a distribution substation, such as the Current Transformer (CT), Potential Transformer (PT), power transformers, disconnect switches, reclosers and concrete structures, as illustrated in the Figures below, which compare the real with the virtual.
 
-
-Subestação Real            |  Subestação RV
+Real Substation            |  VR Substation
 :-------------------------:|:-------------------------:
 ![image](https://github.com/grei-ufc/vrslab/assets/172390778/861434b1-303c-47e3-8c01-34edb6328b4e)  |  ![image](https://github.com/grei-ufc/vrslab/assets/172390778/6a34490a-4d1c-4fe5-82e9-4da2bcaed8b6)
 
-Além disso, no ambiente do pátio também há um drone no qual os alunos podem sobrevoar a subestação com a finalidade de visualizar os equipamentos por um ângulo melhor, conforme mostrado abaixo.
+In addition, in the courtyard environment there is also a drone on which students can fly over the substation in order to view the equipment from a better angle, as shown below.
 
 <div align="center">
 
 <img width="850" alt="foto-3" src="https://github.com/grei-ufc/vrslab/assets/172390778/7c95dd27-2c3e-44e1-a5fc-1578cfb9b5b6">
 </div>
 
-O ambiente da Casa de Comando possui os quadros de proteção e automação com seus respectivos equipamentos, como relés, computadores industriais e Switches. Neles, é possível interação para criar simulações completas de eventos de falta que ocorreram na subestação real, com supervisório, oscilógrafias e diagrama de atuação das proteções, conforme exibido nas Figuras abaixo.
+The Command House environment contains the protection and automation panels with their respective equipment, such as relays, industrial computers and switches. In these, it is possible to interact to create complete simulations of fault events that have occurred in the real substation, with supervisory control, oscillographs and diagrams of how the protections work, as shown in the Figures below.
 
-Subestação Real            |  Subestação RV
+Real Substation            |  VR Substation
 :-------------------------:|:-------------------------:
 ![image](https://github.com/grei-ufc/vrslab/assets/172390778/e9279ba0-270a-4e9e-b0b4-4e9844b26745)  |  ![image](https://github.com/grei-ufc/vrslab/assets/172390778/0bd3cbfa-0357-4a83-850d-4f7473ff3a0d)
 
@@ -31,22 +31,22 @@ Subestação Real            |  Subestação RV
 <img width="850" alt="foto-7" src="https://github.com/grei-ufc/vrslab/assets/172390778/030fa06b-a32d-4e3d-b9f2-346de63eff38">
 </div>
 
-## Seção 2 - Como usar o VRSL?
-Para apenas utilizar o software, na Seção 3 está disponibilizado um link com um arquivo .zip para o download dos arquivos necessários para executar o VRSL em qualquer computador. Após baixar os arquivos, é indicado a leitura do arquivo read_me.txt que contém as instruções para a instalação apropriada. Para executar o software, os requisitos mínimos são:
+## Section 2 - How to use the VRSL?
+To simply use the software, Section 3 provides a link to a .zip file for downloading the files needed to run VRSL on any computer. After downloading the files, you should read the read_me.txt file which contains the instructions for proper installation. To run the software, the minimum requirements are:
 
-+ Memória RAM 8 Gb DDR4;
-+ Placa de vídeo de 2GB;
-+ Processador i5 8ª Geração, cache de 12 MB, até 4.40 GHz;
-+ Utilização do SSD mínimo 256 GB.
++ RAM 8 Gb DDR4;
++ 2GB Video Card;
++ i5 8th Generation processor, 12 MB cache, up to 4.40 GHz;
++ Use of minimum 256 GB SSD.
 
-Importante salientar que os requisitos mínimos não oferecem a melhor solução para o ensino, haja vista que o software possui muitos equipamentos pesados. Portanto, os requisitos recomendados para a utilização fluida do software são:
+It is important to note that the minimum requirements do not offer the best solution for teaching, since the software has a lot of heavy equipment. Therefore, the recommended requirements for smooth use of the software are:
 
-+ Memória RAM 16 Gb DDR4;
-+ Placa de vídeo de 4GB;
-+ AMD Ryzen 5000 Series 7 ou 13ª geração Intel® Core™ i5-13450HX (10-core, cache de 20MB, até 4.6GHz);
-+ Utilização do SSD mínimo 256 GB.
++ RAM memory 16 Gb DDR4;
++ 4GB video card;
++ AMD Ryzen 5000 Series 7 or 13th generation Intel® Core™ i5-13450HX (10-core, 20MB cache, up to 4.6GHz);
++ Use of minimum 256 GB SSD.
 
-Após a instalação apropriada do software, o usuário será levado para o ambiente da subestação e as instruções para utilização do software estão descrito abaixo:
+Once the software has been properly installed, the user will be taken to the substation environment and the instructions for using the software are described below:
 
 
 <div align="center">
@@ -54,42 +54,42 @@ Após a instalação apropriada do software, o usuário será levado para o ambi
 <img width="850" alt="teclado" src="https://github.com/grei-ufc/vrslab/assets/172390778/0ce614c7-40c4-4b4f-be8d-cd50d76a953d">
 </div>
 
-+ Tecla W – Movimentação para frente;
-+ Tecla A – Movimentação para direita;
-+ Tecla S – Movimentação para trás
-+ Tecla D – Movimentação para esquerda
-+ Tecla Shift – Corre rápido
-+ Tecla Ctrl esquerdo - Agachar
-+ Tecla Ctrl direito – Ponta dos pés
-+ Tecla I – Movimentação pra frente no drone;
-+ Tecla K – Movimentação para trás no drone;
-+ Tecla J – Movimentação para direita no drone;
-+ Tecla L – Movimentação para esquerda no drone;
-+ Tecla O – Sair do drone
-+ Tecla T – Parar o drone no ar;
-+ Tecla E – Interagir com componentes, como portas, drones etc;
-+ Tecla M – Habilitar/Desabilitar minimapa;
-+ Tecla Barra de espaço – Pular;
-+ Tecla Esc – Opções do jogo.
++ W key - Move forward;
++ A key - Move to the right;
++ S key - Move backwards
++ D key - Move left
++ Shift key - Run fast
++ Left Ctrl key - Crouch
++ Right Ctrl key - Tiptoe
++ I key - Move forward in the drone;
++ K key - Move the drone backwards;
++ J key - Move the drone to the right;
++ L key - Move the drone to the left;
++ O key - Exit the drone
++ T key - Stop the drone in the air;
++ E key - Interact with components such as doors, drones, etc;
++ M key - Enable/Disable minimap;
++ Spacebar key - Jump;
++ Esc key - Game options.
 
-Dentro do VRSL o usuário tem liberdade para se movimentar e visualizar qualquer equipamento em qualquer ângulo. É recomendável que o usuário acesso o computador, na casa de comando, para utilizar todas as funcionalidades do software, como visualizar e interagir com o diagrama unifilar da subestação e visualizar simulações.
+Within VRSL, the user is free to move around and view any piece of equipment from any angle. It is recommended that the user access the computer in the control room to use all the software's features, such as viewing and interacting with the substation's single line diagram and viewing simulations.
 
-## Seção 3 – Indicação de aula utilizando o VRSL?
+## Section 3 – Guide lesson using the VRSL?
 
-Para guiar o(a) professor(a) que tenha a intenção de utilizar o VRSL em sala de aula, foi criado um plano de aula para servir de modelo e de exemplo para replicação. A disciplina em questão chama-se Geração, Transmissão e Distribuição e tem o objetivo de introduzir, ao discente, os conteúdos da área de Sistemas Elétricos de Potência. Aconselha-se utilizar do plano de aula sugerido, que se encontra no drive com link abaixo, após as aulas teóricas de subestação com a finalidade de mostrar um ambiente em 3D do conteúdo abordado em sala de aula.
+To guide teachers who intend to use the VRSL in the classroom, a lesson plan has been created to serve as a model and example for replication. The subject in question is called Generation, Transmission and Distribution and aims to introduce students to the contents of the area of Electric Power Systems. It is advisable to use the suggested lesson plan, which can be found in the drive linked below, after the substation lectures in order to show a 3D environment of the content covered in class.
 
-[Plano de aula proposto](https://github.com/user-attachments/files/15992491/Plano.de.aula.GTD_VRSL_V1.pdf)
+[Proposed lesson plan](https://github.com/user-attachments/files/15992491/Plano.de.aula.GTD_VRSL_V1.pdf)
 
 
-## Seção 4 – Prémios e publicações envolvendo o VRSL.
+## Section 4 – Awards and publications involving the VRSL.
 
-O presente projeto é fruto da parceria com CNPq, oriunda da chamada universal de 2023, intitulada “Plataforma Multidomínio em Realidade Virtual aplicada ao processo de Ensino-Aprendizagem.” Além disso, o presente projeto adquiriu, no CINASE 2023 – Edição Fortaleza, o prêmio de **Melhor Projeto P&D** e o prêmio **O Setor Elétrico (OSE) de Melhor Projeto Geral**. Além disso, seu desenvolvimento e aplicação gerou os seguintes trabalhos:
+This project is the result of a partnership with CNPq, from the 2023 Universal Call, entitled "Multidomain Virtual Reality Platform applied to the Teaching-Learning process". In addition, at CINASE 2023 - Fortaleza Edition, this project won the **Best R&D Project** award and the **O Elétrico Sector (OSE) award for Best Overall Project**. In addition, its development and application has generated the following works:
 
-[Trabalho de Conclusão de Curso](https://repositorio.ufc.br/handle/riufc/67639)
+[Course Conclusion Work](https://repositorio.ufc.br/handle/riufc/67639)
 
-[Artigo no XIX ERIAC na seção C2 D2](https://www.xixeriac.com.br/artigos-apresentacoes)
+[Article in XIX ERIAC at section C2 D2](https://www.xixeriac.com.br/artigos-apresentacoes)
 
-## Seção 5 – Pesquisadores envolvidos no projeto
+## Seção 5 – Researchers involved in the project
 
 [Daniel Rebouças Jaguaribe](http://lattes.cnpq.br/8807139438765241)
 
