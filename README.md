@@ -1,7 +1,6 @@
 # What is the VRSL?
 
-The Virtual Reality Substation Laboratory (VRSL) is a software development using Unity Engine by Smart Grids Group (SSG)
-é um software desenvolvido utilizando da Unity Engine pelo to improve the teaching-learning process in Electrical Engineering courses with regard to substation content.
+The Virtual Reality Substation Laboratory (VRSL) is a software development using Unity Engine by Smart Grids Group (SSG) to improve the teaching-learning process in Electrical Engineering courses with regard to substation content.
 
 ## Section 1 - What is the main function of the Virtual Reality Substation Laboratory (VRSL)?
 
