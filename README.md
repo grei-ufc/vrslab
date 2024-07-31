@@ -71,7 +71,10 @@ Once the software has been properly installed, the user will be taken to the sub
 + Spacebar key - Jump;
 + Esc key - Game options.
 
-Within VRSL, the user is free to move around and view any piece of equipment from any angle. It is recommended that the user access the computer in the control room to use all the software's features, such as viewing and interacting with the substation's single line diagram and viewing simulations.
+Within VRSL, the user is free to move around and view any piece of equipment from any angle. It is recommended that the user access the computer in the control room to use all the software's features, such as viewing and interacting with the substation's single line diagram and viewing simulations. The executable and editable versions of VRSL can be downloaded in the link below.
+
+
+[Virtual Reality Substation Laboratory](https://drive.google.com/drive/folders/1DpopG-kzL5OJVc_RLJ2PTAQZkqFNIYAT?usp=sharing)
 
 ## Section 3 – Guide lesson using the VRSL?
 
